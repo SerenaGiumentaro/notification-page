@@ -1,0 +1,14 @@
+.notification{
+    width: 90vw;
+    max-width: 900px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;    
+}
+.notification div{
+    display: flex;
+}
+.read{
+    background: var(--very-light-grayish-blue);
+}

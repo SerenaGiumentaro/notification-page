@@ -1,0 +1,14 @@
+.notif-number{
+    background: var(--blue);
+    color: var(--white);
+    width: 48px;
+    display: inline-block;
+    margin: 0 5px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+}
+.display-notif{
+    font-weight: 700;
+    font-size: 1.5rem;
+}

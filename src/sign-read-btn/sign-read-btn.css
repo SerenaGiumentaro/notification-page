@@ -1,0 +1,6 @@
+button{
+    border: none;
+    background: #fff;
+    color: var(--grayish-blue);
+    cursor: pointer;
+}
